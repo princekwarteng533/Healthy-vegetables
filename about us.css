@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+
+.h1{
+    text-align:center;
+}
+
+.first {
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.second {
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.img img {
+    width: 40rem;
+    height: 30rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
+.info p {
+    font-size: 2rem;
+    margin-right: 2rem;
+}
